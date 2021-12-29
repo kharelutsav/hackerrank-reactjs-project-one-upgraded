@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hackerrank-reactjs-project-one-upgraded/static/css/main.3a58a218.css",
+    "main.js": "/hackerrank-reactjs-project-one-upgraded/static/js/main.be58e828.js",
+    "static/js/787.50c3ee10.chunk.js": "/hackerrank-reactjs-project-one-upgraded/static/js/787.50c3ee10.chunk.js",
+    "index.html": "/hackerrank-reactjs-project-one-upgraded/index.html",
+    "main.3a58a218.css.map": "/hackerrank-reactjs-project-one-upgraded/static/css/main.3a58a218.css.map",
+    "main.be58e828.js.map": "/hackerrank-reactjs-project-one-upgraded/static/js/main.be58e828.js.map",
+    "787.50c3ee10.chunk.js.map": "/hackerrank-reactjs-project-one-upgraded/static/js/787.50c3ee10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a58a218.css",
+    "static/js/main.be58e828.js"
+  ]
+}
